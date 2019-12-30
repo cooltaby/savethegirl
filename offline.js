@@ -1,0 +1,31 @@
+﻿{
+	"version": 1577695602,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-3.4.1.min.js",
+		"offlineClient.js",
+		"images/hudbest-sheet0.png",
+		"images/hudscore-sheet0.png",
+		"images/playerplatform-sheet0.png",
+		"images/bird-sheet0.png",
+		"images/player-sheet0.png",
+		"images/player-sheet1.png",
+		"images/background2000-sheet0.png",
+		"images/invisiblewallright-sheet0.png",
+		"images/invisibleground-sheet0.png",
+		"images/avoidbird-sheet0.png",
+		"images/reload-sheet0.png",
+		"images/sprite-sheet0.png",
+		"images/sprite2-sheet0.png",
+		"media/hitwall.m4a",
+		"media/hitwall.ogg",
+		"media/gameover.m4a",
+		"media/gameover.ogg",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png"
+	]
+}
